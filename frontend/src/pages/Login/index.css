@@ -1,0 +1,41 @@
+.loginpage_img{
+
+    background-size: cover;
+
+    height:100vh ;
+
+    background-image: url("../../images/movieloginbackground4.jpg");
+
+    background-repeat: no-repeat;
+
+  }
+
+
+
+  .login-container {
+
+    margin-top: 100px;
+
+    width: 300px;
+
+    margin: 0 auto;
+
+    padding: 20px;
+
+    border: 1px solid #f7f3f3;
+
+    border-radius: 5px;
+
+    box-shadow: 0 2px 4px black(0, 0, 2, 0.4);
+
+    position: absolute;
+
+  top: 50%;
+
+  left: 50%;
+
+  transform: translate(-50%, -50%) ;
+
+  background-color: #f7f1f1;
+
+  }
